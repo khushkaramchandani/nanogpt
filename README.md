@@ -113,6 +113,6 @@ taskset -c 0,1 ./nanogpt
 
 ```
 nanogpt.c       — full implementation, single file
-new_names.txt   — training dataset (baby names, one per line)
+new_names.txt   — training dataset (indian names, one per line)
 README.md       — this file
 ```
